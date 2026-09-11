@@ -223,7 +223,7 @@ function App() {
 
 
           <h2 className="hero-role">
-            AI Developer &amp; Software Engineer
+            
           </h2>
 
 
